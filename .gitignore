@@ -1,0 +1,21 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Gradle files
+.gradle/
+build/
+
+# Compiled class files
+out/
+
+# Logs
+*.log
+
+# Dependency directories
+/.gradle/
+/.idea/libraries/
+
+# Operating System-specific files
+.DS_Store
+Thumbs.db
