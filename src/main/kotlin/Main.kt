@@ -19,5 +19,5 @@ fun main() {
     println(hasUniqueCharacters("house"))
     println(hasUniqueCharacters("aluminium"))
 
-
+    Logger.log("Main")
 }
